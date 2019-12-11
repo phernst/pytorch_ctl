@@ -1,3 +1,4 @@
 [submodule "ctl"]
 	path = ctl
 	url = https://github.com/phernst/ctl.git
+	branch = pybind
